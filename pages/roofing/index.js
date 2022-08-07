@@ -3,10 +3,8 @@ import Image from 'next/image'
 
 export default function Home() {
   return (
-    <div className=''>
-      johcp.com
-      
+    <div className='bg-yellow-600'>
+      johcp.com roofing
     </div>
-    
   )
 }
